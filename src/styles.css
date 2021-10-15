@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  border: solid 5px orange;
+}
+span {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+
+  border: solid 2px black;
+
+  text-align: start;
+}
